@@ -10,7 +10,7 @@ The purpose of this project is to help people with their Vintage Video Game Coll
 I would like to decribe it as something that is close to Ebay, or PriceCharting where people can look at something and reach out to find out more about it, or to show it off. 
 
 ### People Resources:
-The Key Memebers of this project would be the people verifying everything. These are the people who will help us standout from everyone else. 
+The Key Memebers of this project would be the people verifying everything. These are the people who will help us standout from everyone else. People who we hire/contract to evaluate what is being traded, making sure that the item is as advertised, if it works, cosmetic and everything in between. 
 
 ### Desired Result: 
 The desired result is to have at least 100 people make a account. Anything less, then there is no point, With 100 people we can look on getting better feedback, be able to network and use word of mouth. 
